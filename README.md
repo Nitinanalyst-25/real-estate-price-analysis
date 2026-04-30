@@ -131,12 +131,12 @@ Completed:
          business segmentation
 ✅ Python — Data cleaning and EDA
 
-In Progress:
-🔄 Python — Feature engineering 
+Completed:
+✅ Python — Feature engineering 
             and model building
 
-Upcoming:
-📋 Tableau dashboard development
+In Progress:
+🔄 Tableau dashboard development
 
 ---
 
