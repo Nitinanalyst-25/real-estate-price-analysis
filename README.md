@@ -125,8 +125,7 @@ real-estate-price-prediction/
 ## Status
 
 Completed:
-✅ SQL — Data exploration and business segmentation
-
+✅ SQL — Data exploration and business segmentation 
 ✅ Python — Data cleaning and EDA, Feature engineering and model building
 
 In Progress:
