@@ -124,16 +124,10 @@ real-estate-price-prediction/
 
 ## Status
 
-🔄 In Progress
-
 Completed:
-✅ SQL — Data exploration and 
-         business segmentation
-✅ Python — Data cleaning and EDA
+✅ SQL — Data exploration and business segmentation
 
-Completed:
-✅ Python — Feature engineering 
-            and model building
+✅ Python — Data cleaning and EDA, Feature engineering and model building
 
 In Progress:
 🔄 Tableau dashboard development
